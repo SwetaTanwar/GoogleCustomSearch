@@ -22,7 +22,5 @@ Design a simple 3 screen app to fetch images from Google and display them in a l
   Please get your own API key from a separate Google project.
 
 ## Screenshots:
-![No option chosen](src/assets/screenshots/Screenshot1.png?raw=true)
-![No option chosen](src/assets/screenshots/Screenshot2.png?raw=true)
-![No option chosen](src/assets/screenshots/Screenshot3.png?raw=true)
-![No option chosen](src/assets/screenshots/Screenshot4.png?raw=true)
+
+<img src="src/assets/screenshots/flow.gif" width="375" height="812"/>
